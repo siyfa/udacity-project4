@@ -1,4 +1,4 @@
-[![siyfa](https://app.circleci.com/pipelines/github/siyfa/udacity-project4.svg?style=svg)](https://app.circleci.com/pipelines/github/siyfa/udacity-project4)
+[![siyfa](https://circleci.com/gh/siyfa/udacity-project4.svg?style=svg)](https://circleci.com/gh/siyfa/udacity-project4)
 
 ## Project Overview
 
