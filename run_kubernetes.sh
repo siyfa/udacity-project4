@@ -18,11 +18,6 @@ if [ "_$r" == "_1" ] ; then
     --overrides='{"apiVersion": "v1", "spec":{"imagePullSecrets": [{"name": "regcred"}]}}'
 fi
 
-# kubectl run udacity-project4 \
-#     --image=$dockerpath \
-#     --image-pull-policy="Always" \
-#     --overrides='{"apiVersion": "v1", "spec":{"imagePullSecrets": [{"name": "regcred"}]}}'
-
 # Step 3:
 # List kubernetes pods
 kubectl get pods
